@@ -4,6 +4,8 @@
 */[Bb]uild/
 */[Bb]uilds/
 */[Ll]ogs/
+*/[Aa]ssets/Fungus
+*/[Aa]ssets/FungusExamples
 
 # Never ignore Asset meta data
 ![Aa]ssets/**/*.meta
